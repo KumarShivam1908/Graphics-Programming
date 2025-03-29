@@ -16,4 +16,4 @@ Our goal is to develop a strong foundation in graphics programming while working
 ## Get Involved  
 If you share our enthusiasm for graphics programming, feel free to explore, contribute, or reach out! 🚀  
 
-📧 Contact: [Arnav Sinha](mailto:arnavsinha4334@gmail.com) | [Shivam Kumar](#)  
+📧 Contact: [Arnav Sinha](mailto:arnavsinha4334@gmail.com) | [Kumar Shivam](shivam.pragati3299@gmail.com)  
