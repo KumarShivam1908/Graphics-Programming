@@ -2,21 +2,25 @@
 
 Welcome to our repository!  
 
+<img src="https://github.com/user-attachments/assets/bb2dee46-6ef6-4fb3-b064-c73bd9f9408c" width="500" height="300">
+
 We are Computer Science undergraduates with a deep interest in **Computer Graphics and GPU Programming**. 
 
 ## A Little Bit About Us
 
-**Arnav Sinha** – Computer Science undergrad at VIT Vellore (Chennai) with a strong foundation in coding, data structures, and algorithms. I specialize in Computer Vision, Image Processing, AI/ML, and Computer Graphics, building high-performance systems that solve real-world challenges. I love chess, reading, music, and graphic design. I'm also a passionate C++ enthusiast. 
+**Arnav Sinha** – Computer Science undergrad at VIT Vellore (Chennai) with a strong foundation in coding, data structures, and algorithms. I specialize in Computer Vision, Image Processing, AI/ML, and Computer Graphics, building high-performance systems that solve real-world challenges. I love chess, reading, music, and graphic design. I'm also a passionate C++ enthusiast.
+
 📌 [LinkedIn](https://www.linkedin.com/in/arnavsinha4334/)
 
 **Kumar Shivam** – Enthusiastic and dedicated student at VIT University, Chennai, specializing in Generative AI and Deep Learning. With hands-on experience in frameworks like TensorFlow and PyTorch, and proficiency in CNNs, Transformers, and OpenCV, I am passionate about driving innovation in robotic applications and vision perception.  
+
 📌 [LinkedIn](https://www.linkedin.com/in/kumar-shivam-b8b196258/)
 
 ## About This Repository (In Progress)
-This repository is a collection of our **projects, learning journeys, guides, and resources** in the field of computer graphics. We explore topics such as:
+This repository is a collection of our **projects, learning journeys, guides, and resources** in computer graphics. We explore topics such as:
 
 - **OpenGL Tutorial**  
-- **Ray Tracing & Real-time Rendering**  
+- **OpenGL ES/Vulkan**  
 - **Shader Programming (GLSL, HLSL, etc.)**  
 - **Mesh-Slicing & Layering**  
 
