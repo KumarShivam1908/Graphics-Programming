@@ -2,7 +2,7 @@
 
 ![download](https://github.com/user-attachments/assets/0487a477-5ba0-432a-8a2e-fe55a13d1903)
 
-## Import OpenGL 👾
+## Import OpenGL 💻
 
 ```cpp
 #include <GL/glew.h>
@@ -49,7 +49,7 @@ glBindVertexArray(VAO);
 
 ---
 
-## Element Buffer Object (EBO / IBO)
+## Element Buffer Object (EBO / IBO) 👾
 
 ```cpp
 GLuint EBO;
